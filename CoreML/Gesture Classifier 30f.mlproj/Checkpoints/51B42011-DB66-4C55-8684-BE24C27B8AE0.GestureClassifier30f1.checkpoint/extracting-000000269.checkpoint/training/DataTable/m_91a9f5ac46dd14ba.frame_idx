@@ -1,0 +1,15 @@
+[sframe]
+version=0
+num_segments=18446744073709551615
+num_columns=4
+nrows=15356
+[column_names]
+0000=videoPath
+0001=session_id
+0002=keypoints
+0003=label
+[column_files]
+0000=m_91a9f5ac46dd14ba.sidx:0
+0001=m_91a9f5ac46dd14ba.sidx:1
+0002=m_91a9f5ac46dd14ba.sidx:2
+0003=m_91a9f5ac46dd14ba.sidx:3

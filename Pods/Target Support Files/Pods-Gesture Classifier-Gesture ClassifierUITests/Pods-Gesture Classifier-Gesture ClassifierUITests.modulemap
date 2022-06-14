@@ -1,0 +1,6 @@
+framework module Pods_Gesture_Classifier_Gesture_ClassifierUITests {
+  umbrella header "Pods-Gesture Classifier-Gesture ClassifierUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
