@@ -1,4 +1,4 @@
-# iOS-Gesture-Classifier-using-CoreML
+# iOS-Gesture-Classifier-using-CoreML-with-TouchDesigner
 An example application using CoreML on iOS with TouchDesigner.    
 
 ## How to build
