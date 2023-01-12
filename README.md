@@ -18,7 +18,8 @@ Open Gesture Classifier.toe.
 Click the OSC In CHOP.   
 Set the port.
 
-![Untitled](https://user-images.githubusercontent.com/79373845/212024636-c78fb5bb-3996-4501-82d2-e3d1709cef00.gif)
+![gesture_1](https://user-images.githubusercontent.com/79373845/212025014-66465fba-135f-42da-88af-52e954050917.gif)
+
 
 ## Results of Machine Learning    
 #### Gesture classification by models
