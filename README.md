@@ -18,7 +18,7 @@ Open Gesture Classifier.toe.
 Click the OSC In CHOP.   
 Set the port.
 
-![gesture_1](https://user-images.githubusercontent.com/79373845/212025014-66465fba-135f-42da-88af-52e954050917.gif)
+![Untitled_2](https://user-images.githubusercontent.com/79373845/212025846-75549a22-67c2-4d15-8057-f77700aa6972.gif)
 
 
 ## Results of Machine Learning    
