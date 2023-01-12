@@ -19,14 +19,12 @@ Set the port.
 
 ![Untitled_2](https://user-images.githubusercontent.com/79373845/212025846-75549a22-67c2-4d15-8057-f77700aa6972.gif)
 
-
-## Results of Machine Learning    
-#### Gesture classification by models
+## Gesture classification by models
 | Model 1 | Model 2 | Model 3 |
 |:--------|:--------|:--------|
 |raise both hands to the side <br/> raise the left hand to the side <br/> raise the right hand to the side <br/> raise the left hand forward <br/> raise the right hand forward <br/> no movement|raise the left hand to the side <br/> raise the right hand to the side <br/> raise the left hand forward <br/> raise the right hand forward <br/> no movement<br/><br/>| raise both hands to the side <br/> raise the left hand to the side <br/> raise the right hand to the side <br/> no movement<br/><br/><br/>|
 
-#### Accuracy graphs by models
+## Accuracy graphs by models
 ##### Model 1    
 <img width="816" alt="Gesture Classifier Graph 1" src="https://user-images.githubusercontent.com/79373845/212022580-656fd4c1-0194-4c84-8bb1-929c4dd9e22f.png">
 
