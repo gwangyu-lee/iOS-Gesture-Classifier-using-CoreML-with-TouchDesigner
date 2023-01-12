@@ -12,8 +12,7 @@ var port = 8800
 Connect any iOS device.    
 Build it.    
 
-## How to work with TouchDesigner
-#### In TouchDesigner
+## In TouchDesigner
 Open Gesture Classifier.toe.   
 Click the OSC In CHOP.   
 Set the port.
