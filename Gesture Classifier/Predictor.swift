@@ -23,7 +23,7 @@ class Predictor {
     let predictionWindowSize = 60
     var posesWindow: [VNHumanBodyPoseObservation] = []
     
-    var ipAddress = "172.20.10.8"
+    var ipAddress = "192.168.68.55"
     var port = 8800
     
     init() {

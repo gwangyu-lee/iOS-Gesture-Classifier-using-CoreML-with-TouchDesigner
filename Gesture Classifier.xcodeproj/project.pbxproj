@@ -10,9 +10,7 @@
 		385D57E37FE9CDD249258F0F /* Pods_Gesture_Classifier.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D466BAC74848FCAC34C0CC /* Pods_Gesture_Classifier.framework */; };
 		7983FABD6889B400E280D3C8 /* Pods_Gesture_ClassifierTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCF2C12EBB57626DC218248A /* Pods_Gesture_ClassifierTests.framework */; };
 		C06D8405A5AB8FF7A78AA6C4 /* Pods_Gesture_Classifier_Gesture_ClassifierUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 269E744AD381CF2A5332D82C /* Pods_Gesture_Classifier_Gesture_ClassifierUITests.framework */; };
-		CB13CE16282CBFB8002483D2 /* Gesture Classifier 30f 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CB13CE15282CBFB8002483D2 /* Gesture Classifier 30f 1.mlmodel */; };
-		CB625337282D05880091E6D6 /* Gesture Classifier 30f 2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CB625335282D05880091E6D6 /* Gesture Classifier 30f 2.mlmodel */; };
-		CB625338282D05880091E6D6 /* Gesture Classifier 30f 3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CB625336282D05880091E6D6 /* Gesture Classifier 30f 3.mlmodel */; };
+		CB32F2442CE674A70081C281 /* Gesture Classifier 30f 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CB32F2432CE674A70081C281 /* Gesture Classifier 30f 1.mlmodel */; };
 		CBE0163427BCE04500878FA9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE0163327BCE04500878FA9 /* AppDelegate.swift */; };
 		CBE0163627BCE04500878FA9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE0163527BCE04500878FA9 /* SceneDelegate.swift */; };
 		CBE0163827BCE04500878FA9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE0163727BCE04500878FA9 /* ViewController.swift */; };
@@ -53,9 +51,7 @@
 		8AE0927EE6907A8ACF43300F /* Pods-Gesture ClassifierTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gesture ClassifierTests.debug.xcconfig"; path = "Target Support Files/Pods-Gesture ClassifierTests/Pods-Gesture ClassifierTests.debug.xcconfig"; sourceTree = "<group>"; };
 		BAF3BD36E1D695C79852B188 /* Pods-Gesture Classifier.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gesture Classifier.debug.xcconfig"; path = "Target Support Files/Pods-Gesture Classifier/Pods-Gesture Classifier.debug.xcconfig"; sourceTree = "<group>"; };
 		BCF2C12EBB57626DC218248A /* Pods_Gesture_ClassifierTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Gesture_ClassifierTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CB13CE15282CBFB8002483D2 /* Gesture Classifier 30f 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "Gesture Classifier 30f 1.mlmodel"; path = "ML/Models/Gesture Classifier 30f 1.mlmodel"; sourceTree = SOURCE_ROOT; };
-		CB625335282D05880091E6D6 /* Gesture Classifier 30f 2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "Gesture Classifier 30f 2.mlmodel"; path = "ML/Models/Gesture Classifier 30f 2.mlmodel"; sourceTree = SOURCE_ROOT; };
-		CB625336282D05880091E6D6 /* Gesture Classifier 30f 3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "Gesture Classifier 30f 3.mlmodel"; path = "ML/Models/Gesture Classifier 30f 3.mlmodel"; sourceTree = SOURCE_ROOT; };
+		CB32F2432CE674A70081C281 /* Gesture Classifier 30f 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "Gesture Classifier 30f 1.mlmodel"; sourceTree = "<group>"; };
 		CBE0163027BCE04500878FA9 /* Gesture Classifier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Gesture Classifier.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBE0163327BCE04500878FA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CBE0163527BCE04500878FA9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -149,9 +145,7 @@
 		CBE0163227BCE04500878FA9 /* Gesture Classifier */ = {
 			isa = PBXGroup;
 			children = (
-				CB13CE15282CBFB8002483D2 /* Gesture Classifier 30f 1.mlmodel */,
-				CB625335282D05880091E6D6 /* Gesture Classifier 30f 2.mlmodel */,
-				CB625336282D05880091E6D6 /* Gesture Classifier 30f 3.mlmodel */,
+				CB32F2432CE674A70081C281 /* Gesture Classifier 30f 1.mlmodel */,
 				CBE0163327BCE04500878FA9 /* AppDelegate.swift */,
 				CBE0163527BCE04500878FA9 /* SceneDelegate.swift */,
 				CBE0163727BCE04500878FA9 /* ViewController.swift */,
@@ -425,12 +419,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB625337282D05880091E6D6 /* Gesture Classifier 30f 2.mlmodel in Sources */,
-				CB625338282D05880091E6D6 /* Gesture Classifier 30f 3.mlmodel in Sources */,
 				CBE0166427BCE0F900878FA9 /* VideoCapture.swift in Sources */,
+				CB32F2442CE674A70081C281 /* Gesture Classifier 30f 1.mlmodel in Sources */,
 				CBE0163827BCE04500878FA9 /* ViewController.swift in Sources */,
 				CBE0163427BCE04500878FA9 /* AppDelegate.swift in Sources */,
-				CB13CE16282CBFB8002483D2 /* Gesture Classifier 30f 1.mlmodel in Sources */,
 				CBE0166827BD6A2F00878FA9 /* Predictor.swift in Sources */,
 				CBE0163627BCE04500878FA9 /* SceneDelegate.swift in Sources */,
 			);
@@ -612,7 +604,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = WFAK28T88P;
+				DEVELOPMENT_TEAM = 9SPVZAWDBR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Gesture Classifier/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -641,7 +633,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = WFAK28T88P;
+				DEVELOPMENT_TEAM = 9SPVZAWDBR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Gesture Classifier/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
