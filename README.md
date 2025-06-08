@@ -1,6 +1,9 @@
 # iOS-Gesture-Classifier-using-CoreML-with-TouchDesigner
 An example application using CoreML on iOS with TouchDesigner.    
 
+## Journal Articles
+Lee, G., & Kim, J. (2025). An Interactive System Using Gesture Recognition for Multimedia Performance. *Journal of Digital Contents Society*, 26(1), 61-68.
+
 ## How to build
 Open Gesture Classifier.xcworkspace.   
 Open Predictor.swift.
